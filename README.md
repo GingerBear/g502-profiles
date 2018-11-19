@@ -1,3 +1,3 @@
 # g502-profiles
 
-g502 mouse profiles on logitech gaming software
+my g502 mouse profiles on logitech gaming software
